@@ -271,16 +271,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 **Contact**
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+Aryan Satyaprakash
 
-**Portfolio**: [https://your-portfolio-website.com](https://your-portfolio-website.com)
-
-**LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
-**Project Link**: [https://github.com/yourusername/ecommerce-sales-analysis](https://github.com/yourusername/ecommerce-sales-analysis)
-
----
-
-⭐ **If you found this project helpful, please consider giving it a star!** ⭐
-
-*This project demonstrates practical business intelligence and data analysis skills suitable for data analyst, business analyst, and business intelligence roles.*
